@@ -1,10 +1,7 @@
 ### Hi there!
 
 I'm Ivan👋  
-I'm a passionate Frontend Developer from Belarus ⚪🔴⚪.
-
-- I’m learning everything 🤣
-- Love to create cool UI
+I'm a passionate Frontend Developer from Belarus ⚪🔴⚪. As a frontend developer with a passion for open-source technologies, I am excited to share my work on GitHub. My primary focus is on using React, Svelte, and SolidJS to create visually appealing and user-friendly web applications. I also have experience in backend development using technologies such as Node.js and Deno. Additionally, I am proficient in JavaScript and TypeScript, which serve as the base languages for my preferred technologies. On GitHub, you can find a variety of projects that showcase my skills and passion for web development. I am always looking for new opportunities to collaborate and learn from others in the open-source community.
 
 ---
 
