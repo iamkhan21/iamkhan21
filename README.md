@@ -10,7 +10,7 @@ Hey there! I'm Ivan, a frontend developer who loves working with open-source tec
 
 #### Projects:
 - [Modern favicon generator](https://mfg.8byte.agency/)
-- [Free fake API for testing and prototyping](https://softquery.link/)
+- [Free fake API for testing and prototyping](https://softquery.pages.dev)
 
 
 #### Websites:
